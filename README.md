@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Juan Fernandes 🇧🇷.
-- 🌱 I’m currently learning c and advanced hardware architecture.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me, My insta downwards.
+- 👋 Hi, I’m Juan Fernandes 🇧🇷
+- 📫 How to reach me, My insta Data Below.
 - Instagram (I'm not using frequently): @residentsilent .
 <!---
 juanfernande/juanfernande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
